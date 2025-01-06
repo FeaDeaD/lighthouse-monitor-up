@@ -62,7 +62,7 @@
         "request-promise-native": "^1.0.9"
     },
     "devDependencies": {
-        "@types/fs-extra": "^9.0.1",
+        "@types/fs-extra": "^11.0.4",
         "chai": "^4.5.0",
         "chai-files": "^1.4.0",
         "chai-fs": "^2.0.0",

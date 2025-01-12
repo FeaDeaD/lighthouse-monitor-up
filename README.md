@@ -1,4 +1,7 @@
 # Lighthouse Monitor
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3d860613bb442769c95f1681e16f76a)](https://app.codacy.com/gh/FeaDeaD/lighthouse-monitor-up?utm_source=github.com&utm_medium=referral&utm_content=FeaDeaD/lighthouse-monitor-up&utm_campaign=Badge_Grade)
+
 ![License](https://img.shields.io/github/license/verivox/lighthouse-monitor.svg?style=flat-square)
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/verivox/lighthouse-monitor.svg?style=flat-square)
 

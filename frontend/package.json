@@ -24,7 +24,7 @@
         "@material/menu-surface": "^3.0.0",
         "@material/ripple": "^14.0.0",
         "@material/select": "^3.0.0",
-        "@material/textfield": "^3.0.0",
+        "@material/textfield": "^14.0.0",
         "@material/theme": "^14.0.0",
         "@material/typography": "^14.0.0",
         "css-loader": "^6.9.0",

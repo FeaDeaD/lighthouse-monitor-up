@@ -14,7 +14,7 @@
     "license": "MIT",
     "devDependencies": {
         "@material/button": "^14.0.0",
-        "@material/dialog": "^3.0.0",
+        "@material/dialog": "^14.0.0",
         "@material/fab": "^14.0.0",
         "@material/icon-button": "^14.0.0",
         "@material/layout-grid": "^14.0.0",

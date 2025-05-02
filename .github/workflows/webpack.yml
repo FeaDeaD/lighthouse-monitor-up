@@ -25,6 +25,8 @@ jobs:
     - name: Build
       run: |
         npm install -D webpack-cli --force
-        npm install --force
+        npm outdated
+        npm install
+        npm update
         npm audit fix --force
         npx webpack
